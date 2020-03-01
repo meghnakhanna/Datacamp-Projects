@@ -3,7 +3,7 @@ Variation of DataCamp Projects in R and Python
 
 
 ## The Python Folder 
-Consists of DatacMap Projects In Python
+Consists of Datacamp Projects In Python
 
 
 ## The R Folder
@@ -11,4 +11,4 @@ Consists of DatacMap Projects In Python
 Consists Of Projects in R
 
 
-Hopefully They help you.Thank you,
+Hopefully they help you.Thank you.
